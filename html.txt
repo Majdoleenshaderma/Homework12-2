@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>TIC TAC TOC</title>
+    <link rel="stylesheet" href="page1.css">
+    <meta charset="UTF-8">
+
+</head>
+
+<body>
+    <table>
+        <tr>
+            <td>
+                <img alt="tic tac toc" src="tic tac toc.jpg">
+                <br>
+                <a href="page2.html"><button>play</button></a>
+            </td>
+        </tr>
+    </table>
+
+
+</body>
+
+</html>
